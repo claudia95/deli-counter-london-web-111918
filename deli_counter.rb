@@ -2,9 +2,9 @@
 
 def line(katz_deli)
   if katz_deli.length == 0
-    "The line is empty."
+    puts "The line is empty."
   else 
-    "The current line of people is: #{katz_deli[i]}"
+    puts "The current line of people is: #{katz_deli}"
   end
   katz_deli
 end
