@@ -11,3 +11,8 @@ def line(katz_deli)
     puts in_line.join(" ")
   end
 end
+
+def take_a_number(katz_deli, name)
+  
+
+end
